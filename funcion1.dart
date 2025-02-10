@@ -5,7 +5,7 @@ void saludar(){
 }
 
 void escribenombre(){
-print('Joselyn Perez Granados')
+print('Joselyn Perez Granados');
 }
 
 void main(){
